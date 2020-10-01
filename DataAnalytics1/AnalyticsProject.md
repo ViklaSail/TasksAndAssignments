@@ -5,7 +5,7 @@
 * Select data source(s) to be used
 * Use Pandas and matplotlb or seaborn.
 
-## evaluation details OF THIS PART to be evalueated. 
+## evaluation details OF THIS PART to be evalueated (apart from exam). 
 * Jupyter document 70 % weight: need to tell "story of data" which is readable, clear and well structured. 
 * Pipeline software 30 % weight: 
 1.  Need to have test part simulating data inflow
