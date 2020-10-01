@@ -6,7 +6,7 @@
 * Use Pandas and matplotlb or seaborn.
 
 ## evaluation details OF THIS PART to be evalueated. 
-* Jupyter document 70 % weight: need to tell story which is readable, clear and well structured. 
+* Jupyter document 70 % weight: need to tell "story of data" which is readable, clear and well structured. 
 * Pipeline software 30 % weight: 
 1.  Need to have test part simulating data inflow
 2.  need to have code you have tried in Jupyter document
@@ -35,8 +35,4 @@ Lot of open data available: google open data sources.
     Scikit-learn – Machine Learning and Data Mining. ...
     StatsModels – Statistical Modeling, Testing, and Analysis. ...
     Seaborn – For Statistical Data Visualization.
-
-
-# excercises 
-https://courses.helsinki.fi/fi/aycsm90004en/135221588
 
