@@ -15,7 +15,9 @@
 # structure of work
 Requirements: use Pandas and if needed numpy and scipy. Use some visualization library. 
 ## Data Analytics: Story of data with Jupyter.
-Plan your pipeline. Requirements. 
+* Plan your pipeline. Describe the requirements you want to have. Describe data you will be using. Justify your decisions 
+* This Jupyter document makes it possible to return to assumptions and decisions made and re-evaluate them at any point
+  * So if you later on find that the data analysis model need to be fixed or made better, you can better find out correct approach.
 ### additional guidelines you may want to think about
 Tell what you want to do. Tell how you do it. If possible, tell why you do it, what is the purpose. In between you put pieces of python code, by which you are telling HOW you do it. All kind of interesting python code trials you want to include are fine also. if you try something and then decide not to use it, that can be inlcuded in the end. Just make it so that the Jupyter document is clear. 
 ## Data Analytics:  software for pipeline in python
