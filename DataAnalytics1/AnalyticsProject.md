@@ -40,7 +40,7 @@ Tell what you want to do. Tell how you do it. If possible, tell why you do it, w
 * Database usage: save/update data handled by your analytics pipeline application to it. alternatively to file (less points) 
 * output some analysis (possibly visualization). Analysis should change when new data is taken in. 
   * prove this by taking in such data that picture does change. 
-
+* Simple unit test trial
 
 # Possible data sources/areas of interest
 * Covid
