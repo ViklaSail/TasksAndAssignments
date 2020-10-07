@@ -33,11 +33,12 @@ Tell what you want to do. Tell how you do it. If possible, tell why you do it, w
 
 ## Part 2: Data Analytics  **software for pipeline in python**
 1. *** Make a test code which feeds the data to your analytics code. 
-2. make a simple analytics code which just takes in the data and does some simple calculation with it and outputs visualization/analysis of those to text file or to some diagram. 
+2. make a simple analytics code which just takes in the data and does some simple calculation with it and outputs visualization/analysis of those to text file OR to some diagram. 
 * If possible use data source via some API. If not "fake" the api for static data table. 
-  * Most simply: data coming in some format, JSON record preferred
+  * Most simply: data coming in some format. In case you have to choose incoming data format, JSON record preferred
 * Make test code which feeds data to your analytics software record by record.  
 * Database usage: save/update data handled by your analytics pipeline application to it. alternatively to file (less points) 
+  * justification to this: your pipeline may not be runnign all the time, permanent storage for intermediary data used in analysis may be needed. 
 * output some analysis (possibly visualization). Analysis should change when new data is taken in. 
   * prove this by taking in such data that picture does change. 
 * Simple unit test trial
