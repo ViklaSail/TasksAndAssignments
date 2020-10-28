@@ -30,7 +30,8 @@ This will be developing untill saturday 31.10. after that only clarifications
   * Do different kind of trials and use all visualizations we have done
   * describe any shortages/needs/lack you need to address 
   * for the main variable seek variables that correlate. document all trials. If you find somethin that correlates, use it. 
-  * if you do not fake something that correlates for the purposes of exercise (ofcource cannot use that for the competition in case participating)
+  * if you do not find correlatin, fake something that correlates for the purposes of exercise (ofcource cannot use that for the competition in case participating)
+  * document any kind of issues related to causality concerns
   
 3. Plan document
 * consider all things in first lecture. Following headings you must have
