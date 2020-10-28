@@ -9,6 +9,7 @@ This will be developing untill saturday 31.10. after that only clarifications
 * You can participate to a competition
   * received instructions earlier, remind me to give you those
 
+If requirements are not fitting to the topic, then explanation about why is acceptable "result" in documentation
 
 
 # Requirements.
