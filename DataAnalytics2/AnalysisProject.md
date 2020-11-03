@@ -35,13 +35,13 @@ If requirements are not fitting to the topic, then explanation about why is acce
   
 3. Plan document
 * consider all things in first lecture. Following headings you must have
-  1. Collecting data / selecting data
-  2. preprocessing data
-      * especially cleaning
-  3.  Transformation
-  4.  Analysis of data
-      * Conclution
-      * based on story of data, final conclution to be later freezed as a pipeline software later on. 
+1. Collecting data / selecting data
+2. preprocessing data
+    * especially cleaning
+3.  Transformation
+4.  Analysis of data
+    * Conclution
+    * based on story of data, final conclution to be later freezed as a pipeline software later on. 
   
 
 
