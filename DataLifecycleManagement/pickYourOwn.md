@@ -1,3 +1,4 @@
+This is a description for Data Lifecycle management plan task
 # "Pick your own" business
 "Pick your own" businesses are about selling locally grown vegetables and especially berries. When buyinb berries from "pick your own" farms, people can be sure it really is local. Side product is the experience: having a trip to nature. 
 
