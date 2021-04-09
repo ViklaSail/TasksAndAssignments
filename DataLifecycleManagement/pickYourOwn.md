@@ -28,4 +28,4 @@ Every evening estimates on crops amounts in future is updated by the actual stra
 This will be repeated untill the season is over, 3-5 weeks.
 
 # PART 2 TO SELECT FOR DML PLAN: Strawberry farm Yearly operations story
-Fields need to be maintained. Fertilizers are used to keep plants growing. Pests and diseases need to be repelled and controlled. TODO rest of the story
+Fields need to be maintained. Fertilizers are used to keep plants growing. Pests and diseases need to be repelled and controlled by chemical substances like pesticides. TODO rest of the story. It depends on time of year when tasks are to be done for strawberry-plants. 
