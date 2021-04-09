@@ -2,7 +2,7 @@ This is a description for Data Lifecycle management plan task
 # "Pick your own" business
 "Pick your own" businesses are about selling locally grown vegetables and especially berries. When buyinb berries from "pick your own" farms, people can be sure it really is local. Side product is the experience: having a trip to nature. 
 
-# Straberry farm crop-season story. 
+# PART 1 TO SELECT FOR DML PLAN:Straberry farm crop-season story. 
 In the morning the strawberry field row markings will be checked from yesterday if there is time. 
 This is done to make sure everything about the situation in the field is clear. The day begins, 
 
@@ -27,5 +27,5 @@ Every evening estimates on crops amounts in future is updated by the actual stra
 
 This will be repeated untill the season is over, 3-5 weeks.
 
-# Strawberry farm Yearly operations story
+# PART 2 TO SELECT FOR DML PLAN: Strawberry farm Yearly operations story
 Fields need to be maintained. Fertilizers are used to keep plants growing. Pests and diseases need to be repelled and controlled. TODO rest of the story
