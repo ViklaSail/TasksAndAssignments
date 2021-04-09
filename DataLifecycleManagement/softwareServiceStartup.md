@@ -12,7 +12,7 @@ Company has also software development environment which can easily scale when mo
 and agile methodologies. It also has system for helping in assigning tasks according to previous experience of an employee. 
 
 Company also needs to make contracts for production of it's devices.
-
+# PART 1 TO SELECT FOR DML PLAN: BUSINESS END
 ## strategig data
 globalMarketData for selecting company location
 Marketing plan data according to "Crossing the chasm" and "four gears" 
@@ -28,7 +28,9 @@ https://www.slideshare.net/rstrad1/crossing-the-chasm-mdv-whats-new-whats-not
 * High level product feature descriptions
   * For making decision if planning could go further
   * Born in marketing/sales/(development) multidiciplinary team co-operation
-### Software development data
+
+# PART 2 TO SELECT FOR DLM-PLAN: Software development end
+## development related data
   * developer experience data (team, tools, experience)
   * requirements
   * feature plans
