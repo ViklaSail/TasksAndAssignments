@@ -26,3 +26,6 @@ developing as we have estimated. All this affects to estimated free strawberry c
 Every evening estimates on crops amounts in future is updated by the actual strawberry crops picked so far and the current weather prediction.
 
 This will be repeated untill the season is over, 3-5 weeks.
+
+# Strawberry farm Yearly operations story
+Fields need to be maintained. Fertilizers are used to keep plants growing. Pests and diseases need to be repelled and controlled. TODO rest of the story
