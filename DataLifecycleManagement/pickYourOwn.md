@@ -28,4 +28,36 @@ Every evening estimates on crops amounts in future is updated by the actual stra
 This will be repeated untill the season is over, 3-5 weeks.
 
 # PART 2 TO SELECT FOR DML PLAN: Strawberry farm Yearly operations story
-Fields need to be maintained. Fertilizers are used to keep plants growing. Pests and diseases need to be repelled and controlled by chemical substances like pesticides. TODO rest of the story. It depends on time of year when tasks are to be done for strawberry-plants. 
+Fields need to be maintained during summer. It depends on time of year when tasks are to be done for strawberry-plants, and there is a list of major tasks. 
+## Machinery
+Strawberry farm needs light weight tractor to use other machines. Machine is needed planting and preparing strawberry lines. Machine for cleaning old strawberry leaves spring time before growing season. a pump for irrigation is also needed together with other irrigation appliances. Weather station and soil moisture probes are also needed. Different bird repelling robots or machines are needed. 
+## Strawberry plants
+* There are many brands of strawberry
+  * Different brands have different seasonal growth rates, which means that picking season is also different. Generally brands are divided to early, mid-season and late. Different brands also have differences in berry taste. 
+* Strawberry plants have about 4 good production years and then plants are too old. They need to be removed from the field. 
+* 
+## General nutrient and irrigation
+Many conditions affect to nutrient and irrigation needs of strawberry
+* Main fertilizers/nutrients used to keep plants growing: Calsium, Potassium and Nitrogen. 
+* Strawberry has need for different combination of mentioned main fertilizers during different phases of growth. 
+* Strawberry irrigation needs are also varying by which phase of growth strawberry is in.
+During growing season lines must be irrigated daily. Irrigation depends on weather: if raining a lot and temperature is low, no irrigation is needed, if weather is hot and sunny, more irrigation is needed. 
+## Strawberry growing phases
+Strawberry growing phases during summer go as follows:
+* phase 1: from the start of growing season to when first strawberry flowers bloom. 
+* phase 2: when raw strawberries start to emerge
+* Phase 3: When strawberries are ready to pick
+* Phase 4: Almost all strawberries are picked, this phase lasts untill growing season is finished
+It depends on so called "degree days"/accumulated temperature when a growing phase of strawberry starts. 
+
+## Plant protection
+* Pests and diseases need to be repelled and controlled by chemical substances like pesticides. 
+  * Risk of having certain diseases and pests varies by so called "degree days"/accumulated temperature. Also what diseases or pests have been recorded previous summers, increases the risk of having those also coming growing season. 
+* Weeds need to be kept in control, because those compete with strawberry plants of nutrients and space. Weeds also generally make working in field and picking strawberries hard. Weeds are controlled by chemicals and also by covering soil around strawberries with organic material or plastic.
+## Field properties
+* Fields have properties which affect to irrigation and fertilization needs. https://en.wikipedia.org/wiki/Soil_texture
+  * Soil type, or soil texture, if it is coarce, then irrigation is generally needed more. Nutrients are easily washed away by rain and irrigation so there is need to give those "on-time" and not too much. 
+  * If soil has lot of organic material, then less irrigation is needed. Then also soil keeps nutrients better so less of those needed
+  * If a field is in a slope mostly facing south, then the micro-climate is warmer and accumulated temperature curve is steeper. That means growth phases are starting earlier than with other fields of the farm. 
+  * 
+
