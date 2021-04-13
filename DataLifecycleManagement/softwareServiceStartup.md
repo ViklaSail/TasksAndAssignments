@@ -1,8 +1,8 @@
 # Software Service Startup
 ## Description of the situation
-Case company is a Born Global New Technology Software Service Startup. Service includes also electronic device, which needs to be planned and prototypes of it made. 
-Time for which the DLM plan is made is second to fourth year. 
-Company is now expanding after securing first funding round. More people are being employed and proper software development 
+Case company is a Born Global New Technology Software Service Startup. Service includes also an electronic device, which needs to be planned and prototypes of it made. 
+Time line the DLM plan initiative is taken on is second to fourth year. 
+Company is now expanding after securing first funding round. More people are being employed and proper software development environment is set up.
 
 Company is setting up a local B2C service somewhere in the world. It will select a biggest possible growing market and 
 it will then tailor their service idea to that cultural context. Company will collect  market data for selecting about 3 to 4 possible location for offices. 
